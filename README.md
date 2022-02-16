@@ -3,9 +3,14 @@
   <h3> Tutorial </h3>
   <p> 
 <ol>
-  <li> Download the latest GIT. </li>
-Download Webstorm from Jetbrains
-  Set up Github and connect it to Webstorm
+  <li> Download the latest GIT </li>
+  <li> Download Webstorm from Jetbrains </li> 
+  <li> Set up Github and connect it to Webstorm </li>
+  <li> Go to Webstorm system preferences and make sure the path to git.exe is working </li>
+  <li> Create a public repository in GitHub and add the readme file </li>
+  <li> Select VCS and import it into version control </li>
+  
+  
   
   </p>
   </body>
