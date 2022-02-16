@@ -9,6 +9,8 @@
   <li> Go to Webstorm system preferences and make sure the path to git.exe is working </li>
   <li> Create a public repository in GitHub and add the readme file </li>
   <li> Select VCS and import it into version control </li>
+  <li> Create an HTML file in webstorm </li>
+  <li> Add to the file and commit your changes </li>
   
   
   
