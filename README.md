@@ -34,3 +34,12 @@
   <li> <strong> Repository: </strong> A place that hosts an application's code source, together with various metadata. </li>
   </ul>
   </body>
+
+
+<body>
+
+  <h6>  References: </h6>
+ <p> Powerpoint Presentations </p>
+ <p> HTML Book </p>
+ </p>
+ </body>
