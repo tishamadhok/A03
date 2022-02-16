@@ -1,9 +1,17 @@
 # A03
 <body>
-  <p> slayyy </p>
+  <h3> Tutorial </h3>
+  <p> 
+<ol>
+  <li> Download the latest GIT. </li>
+Download Webstorm from Jetbrains
+  Set up Github and connect it to Webstorm
+  
+  </p>
   </body>
   
   <body>
+  <h3> Glossary </h3>
   <ul>
     <li> <strong> Branch: </strong> Series of commits, or different versions of the main repository. </li>
   <li> <strong> Clone: </strong> A copy of selected elements. </li>
